@@ -12,3 +12,11 @@
 ----------------------Cancel changes
 
 ## 2. 깃 설치후 git bash 열기 (마우스 오른쪽)
+
+* 유저 이름 설정하기
+         git config --global user.name"김민주"
+
+* 유저 이메일 설정하기 (반드시 github에 가입했던 이메일 주소와 동일해야 한다) 
+
+          git config --global user.email "vousmeu@naver.com"
+
