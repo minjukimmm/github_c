@@ -76,6 +76,9 @@
    
    그 뒤 깃허브 들어가면 아래의 창이 뜸
    
+   
+   집에서 내가 만든 걸 수정하고 싶다면, 저 브랜치이름에 master를 넣으면 된다
+   
    ![image](https://github.com/minjukimmm/github_c/assets/129017089/66b41dcb-7531-485d-abb5-24d7981bf13a)
 
           
