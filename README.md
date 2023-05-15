@@ -39,7 +39,7 @@
           * github에 올리기
             git push origin master
             
-            -----------------------------------
+-----------------------------------
             
 ## 수정하여 다시 업로드할때
 
@@ -48,3 +48,24 @@
           
 2. 다시 push 해야 한다
           git push origin master
+          
+-----------------------------------
+
+# Github 협업하는 방법
+
+1. 소스코드 다운로드 
+
+   git clone 주소 (넣을 폴더 만들고 <> code 초록창 html)
+   
+   git clone https://github.com/minjukimmm/hanacard.git
+   
+   
+2. 수정 뒤 브랜치(branch) 만들기
+
+   git checkout -b "kim"
+   
+   ![image](https://github.com/minjukimmm/github_c/assets/129017089/66b41dcb-7531-485d-abb5-24d7981bf13a)
+
+          
+          
+      
