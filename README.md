@@ -53,6 +53,8 @@
 
 # Github 협업하는 방법
 
+#사원입장--------------------------------
+
 1. 소스코드 다운로드 
 
    git clone 주소 (넣을 폴더 만들고 <> code 초록창 html)
@@ -60,9 +62,19 @@
    git clone https://github.com/minjukimmm/hanacard.git
    
    
-2. 수정 뒤 브랜치(branch) 만들기
+2. 내용 수정 뒤 브랜치(branch) 만들기
 
-   git checkout -b "kim"
+
+   git checkout -b 브랜치이름
+  ex) git checkout -b "kim"
+   
+   git add .
+   git commit -m "하나카드"
+   
+   git push origin 브랜치이름 <- 절대 master 하면 안 됨 덮여씌여질 수 있음
+   ex) git push origin kim
+   
+   그 뒤 깃허브 들어가면 아래의 창이 뜸
    
    ![image](https://github.com/minjukimmm/github_c/assets/129017089/66b41dcb-7531-485d-abb5-24d7981bf13a)
 
